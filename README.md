@@ -9,8 +9,8 @@ To clean the /node_modules, client/node_modules client/build, client/coverage, a
 To install, run tests, and build project
 Or
 
-$ cd blockchain-explorer
-$ npm install
-$ cd client/
-$ npm install
-$ npm run build
+  $ cd blockchain-explorer
+  $ npm install
+  $ cd client/
+  $ npm install
+  $ npm run build
